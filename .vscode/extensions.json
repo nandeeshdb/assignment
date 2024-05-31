@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "steoates.autoimport",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "esbenp.prettier-vscode",
+    "pmneo.tsimporter",
+    "wayou.vscode-todo-highlight",
+    "dsznajder.es7-react-js-snippets",
+    "tomasleandrolugo.json-to-ts-converter",
+    "foxundermoon.shell-format",
+    "bradlc.vscode-tailwindcss",
+    "pranshuagrawal.toggle-case",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-xml"
+  ]
+}
